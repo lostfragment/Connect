@@ -17,11 +17,11 @@ Youtube Link :- https://youtu.be/D5pT0agWtcM
 
 # App Screenshots 
 
-<img width="200" height = "391" src="App Screenshot/0.png" alt="ScreenShot 1"  />
-<img width="200" height = "391" src="App Screenshot/1.png" alt="ScreenShot 2"  />
-<img width="200" height = "391" src="App Screenshot/2.png" alt="ScreenShot 3"  />
-<img width="200" height = "391" src="App Screenshot/3.png" alt="ScreenShot 4"  />
-<img width="200" height = "391" src="App Screenshot/4.png" alt="ScreenShot 5"  />
+<img align="left" width="200" height = "391" src="App Screenshot/0.png" alt="ScreenShot 1"  />
+<img align="left" width="200" height = "391" src="App Screenshot/1.png" alt="ScreenShot 2"  />
+<img align="left" width="200" height = "391" src="App Screenshot/2.png" alt="ScreenShot 3"  />
+<img align="left" width="200" height = "391" src="App Screenshot/3.png" alt="ScreenShot 4"  />
+<img align="left" width="200" height = "391" src="App Screenshot/4.png" alt="ScreenShot 5"  />
 <img width="200" height = "391" src="App Screenshot/5.png" alt="ScreenShot 6"  />
 <img width="200" height = "391" src="App Screenshot/6.png" alt="ScreenShot 7"  />
 <img width="200" height = "391" src="App Screenshot/7.png" alt="ScreenShot 8"  />
