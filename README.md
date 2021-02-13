@@ -17,26 +17,26 @@ Youtube Link :- https://youtu.be/D5pT0agWtcM
 
 # App Screenshots 
 
-<img align="left" width="200" height = "391" src="App Screenshot/0.png" alt="ScreenShot 1"  />
-<img align="right" width="200" height = "391" src="App Screenshot/1.png" alt="ScreenShot 2"  />
-<img align="left" width="200" height = "391" src="App Screenshot/2.png" alt="ScreenShot 3"  />
-<img align="right" width="200" height = "391" src="App Screenshot/3.png" alt="ScreenShot 4"  />
-<img align="left" width="200" height = "391" src="App Screenshot/4.png" alt="ScreenShot 5"  />
-<img align="right" width="200" height = "391" src="App Screenshot/5.png" alt="ScreenShot 6"  />
-<img align="left" width="200" height = "391" src="App Screenshot/6.png" alt="ScreenShot 7"  />
-<img align="right" width="200" height = "391" src="App Screenshot/7.png" alt="ScreenShot 8"  />
-<img align="left" width="200" height = "391" src="App Screenshot/8.png" alt="ScreenShot 9"  />
-<img align="right" width="200" height = "391" src="App Screenshot/9.png" alt="ScreenShot 10"  />
-<img align="left" width="200" height = "391" src="App Screenshot/10.png" alt="ScreenShot 11"  />
-<img align="right" width="200" height = "391" src="App Screenshot/11.png" alt="ScreenShot 12"  />
-<img align="left" width="200" height = "391" src="App Screenshot/12.png" alt="ScreenShot 13"  />
-<img align="right" width="200" height = "391" src="App Screenshot/13.png" alt="ScreenShot 14"  />
-<img align="left" width="200" height = "391" src="App Screenshot/14.png" alt="ScreenShot 15"  />
-<img align="right" width="200" height = "391" src="App Screenshot/15.png" alt="ScreenShot 16"  />
-<img align="left" width="200" height = "391" src="App Screenshot/16.png" alt="ScreenShot 17"  />
-<img align="right" width="200" height = "391" src="App Screenshot/17.png" alt="ScreenShot 18"  />
-<img align="left" width="200" height = "391" src="App Screenshot/18.png" alt="ScreenShot 19"  />
-<img align="right" width="200" height = "391" src="App Screenshot/19.png" alt="ScreenShot 20"  />
-<img align="left" width="200" height = "391" src="App Screenshot/20.png" alt="ScreenShot 21"  />
-<img align="right" width="200" height = "391" src="App Screenshot/21.png" alt="ScreenShot 22"  />
-<img align="left" width="200" height = "391" src="App Screenshot/22.png" alt="ScreenShot 23"  />
+<img width="200" height = "391" src="App Screenshot/0.png" alt="ScreenShot 1"  />
+<img width="200" height = "391" src="App Screenshot/1.png" alt="ScreenShot 2"  />
+<img width="200" height = "391" src="App Screenshot/2.png" alt="ScreenShot 3"  />
+<img width="200" height = "391" src="App Screenshot/3.png" alt="ScreenShot 4"  />
+<img width="200" height = "391" src="App Screenshot/4.png" alt="ScreenShot 5"  />
+<img width="200" height = "391" src="App Screenshot/5.png" alt="ScreenShot 6"  />
+<img width="200" height = "391" src="App Screenshot/6.png" alt="ScreenShot 7"  />
+<img width="200" height = "391" src="App Screenshot/7.png" alt="ScreenShot 8"  />
+<img width="200" height = "391" src="App Screenshot/8.png" alt="ScreenShot 9"  />
+<img width="200" height = "391" src="App Screenshot/9.png" alt="ScreenShot 10"  />
+<img width="200" height = "391" src="App Screenshot/10.png" alt="ScreenShot 11"  />
+<img width="200" height = "391" src="App Screenshot/11.png" alt="ScreenShot 12"  />
+<img width="200" height = "391" src="App Screenshot/12.png" alt="ScreenShot 13"  />
+<img width="200" height = "391" src="App Screenshot/13.png" alt="ScreenShot 14"  />
+<img width="200" height = "391" src="App Screenshot/14.png" alt="ScreenShot 15"  />
+<img width="200" height = "391" src="App Screenshot/15.png" alt="ScreenShot 16"  />
+<img width="200" height = "391" src="App Screenshot/16.png" alt="ScreenShot 17"  />
+<img width="200" height = "391" src="App Screenshot/17.png" alt="ScreenShot 18"  />
+<img width="200" height = "391" src="App Screenshot/18.png" alt="ScreenShot 19"  />
+<img width="200" height = "391" src="App Screenshot/19.png" alt="ScreenShot 20"  />
+<img width="200" height = "391" src="App Screenshot/20.png" alt="ScreenShot 21"  />
+<img width="200" height = "391" src="App Screenshot/21.png" alt="ScreenShot 22"  />
+<img width="200" height = "391" src="App Screenshot/22.png" alt="ScreenShot 23"  />
