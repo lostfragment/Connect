@@ -2,6 +2,7 @@ import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter/material.dart';
 import 'package:hack2021/screens/userScreen.dart';
 import 'package:slimy_card/slimy_card.dart';
+import 'chat/screens/home_screen.dart';
 
 List<String> kcompnayNameProduct = [
   'Microsoft',
@@ -169,12 +170,36 @@ class _AlumniScreenState extends State<AlumniScreen> {
                   SizedBox(
                     width: 8,
                   ),
-                  Text(
-                    'Chat\nMessage',
-                    style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 14,
-                        fontWeight: FontWeight.w500),
+                  GestureDetector(
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (conext) {
+                            return HomeScreen();
+                          },
+                        ),
+                      );
+                    },
+                    child: GestureDetector(
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (conext) {
+                              return HomeScreen();
+                            },
+                          ),
+                        );
+                      },
+                      child: Text(
+                        'Chat\nMessage',
+                        style: TextStyle(
+                            color: Colors.white,
+                            fontSize: 14,
+                            fontWeight: FontWeight.w500),
+                      ),
+                    ),
                   ),
                 ],
               ),
